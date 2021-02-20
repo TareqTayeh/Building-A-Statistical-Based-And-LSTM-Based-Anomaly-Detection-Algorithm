@@ -7,32 +7,32 @@ All results are shown below.
 
 #### Gaussian-Based Algorithm Detection Results:
 <p align="center">
-  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/figures/Gaussian-Based-Results.png" width="600">
+  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/blob/master/figures/Gaussian-Based-Results.png" width="600">
 </p>
 
 <p align="center">
-  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/figures/Gaussian-Based-Results-2.png" width="600">
+  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/blob/master/figures/Gaussian-Based-Results-2.png" width="600">
 </p>
 
 #### Gaussian-Based Algorithm vs SVM vs K-NN:
 <p align="center">
-  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/figures/Results-1.png" width="600">
+  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/blob/master/figures/Results-1.png" width="600">
 </p>
 
 <p align="center">
-  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/figures/Results-2.png" width="600">
+  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/blob/master/figures/Results-2.png" width="600">
 </p>
 
 #### LSTM-Based Algorithm Detection Results:
 <p align="center">
-  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/figures/LSTM-Based-Results.png" width="600">
+  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/blob/master/figures/LSTM-Based-Results.png" width="600">
 </p>
 
 #### Gaussian-Based Algorithm vs LSTM-Based Algorithm:
 <p align="center">
-  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/figures/Results-3.png" width="600">
+  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/blob/master/figures/Results-3.png" width="600">
 </p>
 
 <p align="center">
-  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/figures/Results-4.png" width="600">
+  <img src="https://github.com/TareqTayeh/Building-A-Statistical-Based-And-LSTM-Based-Anomaly-Detection-Algorithm/blob/master/figures/Results-4.png" width="600">
 </p>
